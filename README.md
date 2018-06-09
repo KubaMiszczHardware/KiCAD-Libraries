@@ -5,8 +5,8 @@ also added 3dModels
 it contains common elements (at least in my bench:]), removed exotic ones
 
 ## IMPORTANT
-in Kicad define custom path $KUBALIBS - all paths are relative to it, 
-and $KUBADATASHEET - for datasheets PDF files,
+in Kicad define custom path `$KUBALIBS` - all paths are relative to it, 
+and `$KUBADATASHEET` - for datasheets PDF files,
 or manually edit files and do massive replace with your preferences or sth
 
 
