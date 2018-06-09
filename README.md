@@ -15,7 +15,7 @@ KiCad accepts VRML 2.0
 * look for `.step` `.stp` `.wrl` `.sldprt` `.dae` `.skp` etc.
 * `.step` `.stp` etc. -> open with FreeCAD -> export to `.wrl`
 * open with MeshLab -> export as `.dae` to sketchup
-* in Sketchup resize/move to origin, paint with colors (kicad doesn't show textures) -> export to `.wrl` (but its VRML v1.0 - it look messy in KiCAD)
+* in Sketchup resize/move to origin, paint with colors (kicad doesn't show textures) -> export to `.wrl` (but its VRML v1.0 - it looks messy in KiCAD)
 * open in MeshLab -> export as `.wrl` (and now its VRML 2.0)
 * copy to proper place in KiCad -> hooray its finished
 
