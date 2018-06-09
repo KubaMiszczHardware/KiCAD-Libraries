@@ -1,0 +1,38 @@
+01_PowerSupply.lib  add solar from others
+
+02_RLC.lib
+03_Diodes.lib
+04_Transistors.lib
+
+09_IntegratedCircuits.lib
+
+
+
+
+21_Connectors.lib
+22_PinHeaders.lib
+23_PinSockets.lib move form headers
+22_Switches.lib
+
+
+
+
+
+31_Modules.lib		add 90_Esp8266.lib
+32_Relays.lib move form others
+33_Audio.lib
+34_Displays.lib
+35_Motors.lib
+36_Transformers.lib
+37_Crystals.lib
+38_Fuses.lib
+39_CardSlots.lib move from niewiem
+
+
+
+50_Others.lib
+90_NIEWIEM.lib
+
+99_DiscreteElementsSymbols.lib
+
+

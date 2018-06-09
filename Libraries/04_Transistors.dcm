@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N3904
+D NPN 200mA hfe=200 P=500mW EBC
+K 2N3904 NPN transistor q 
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/Transistors/T NPN 2n3904_3.pdf
+$ENDCMP
+#
+$CMP BC338
+D NPN 800mA hfe=500 P=325mW BEC
+K BC338 NPN transistor q 
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/Transistors/T NPN BC338_KEC_elenota.pl.pdf
+$ENDCMP
+#
+$CMP BC547B
+D NPN 500mA hfe=350 P=625mW BEC
+K BC547B NPN transistor q 
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/Transistors/T NPN BC547B_Fairchild_elenota.pl.pdf
+$ENDCMP
+#
+$CMP BC547C
+D NPN 100mA hfe=350 P=500mW CBE
+K BC547C NPN transistor q 
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/Transistors/T NPN BC547B_Fairchild_elenota.pl.pdf
+$ENDCMP
+#
+$CMP BC548B
+D NPN 500mA hfe=350 P=625mW BEC
+K BC548B NPN transistor q 
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/Transistors/T NPN BC548C_Motorola_elenota.pl.pdf
+$ENDCMP
+#
+$CMP BC548C
+D NPN 500mA hfe=500 P=325mW BEC
+K BC548C NPN transistor q 
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/Transistors/T NPN BC548C_Motorola_elenota.pl.pdf
+$ENDCMP
+#
+$CMP IRFZ44N
+D MOSFET Nenh Uth=3V Jd=49A P=94W GDS
+K IRFZ44N MOSFET N enh transistor q 
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/Transistors/T MOSFET IRFZ44N N - CHANNEL 55V - 17.5mΩ - 49A - POWER MOSFET.pdf
+$ENDCMP
+#
+$CMP MMBT2222A
+D NPN 600mA hfe=200 P=310mW BEC
+K MMBT2222A NPN transistor q 
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/Transistors/T NPN BC547C_elenota.pl.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_GREEN
+D LED Diode green
+K LED Diode green
+$ENDCMP
+#
+$CMP LED_RED
+D LED Diode red
+K LED Diode red
+$ENDCMP
+#
+#End Doc Library

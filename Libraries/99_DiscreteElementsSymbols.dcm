@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC547C
+D NPN 100mA hfe350 P500mW CBE
+K BC547C NPN transistor q 
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/Transistors/T NPN BC547C_elenota.pl.pdf
+$ENDCMP
+#
+#End Doc Library

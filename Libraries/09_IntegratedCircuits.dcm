@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMS1117-3V3
+D AMS1117 voltage regulator 3v3
+K AMS1117 voltage regulator 3v3
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/IntegratedCircuits/IC AMS1117-XX 0.8A Adjustable-Fixed Low Dropout Linear Regulator.pdf
+$ENDCMP
+#
+$CMP AMS1117-5V0
+D AMS1117 voltage regulator 5V0
+K AMS1117 voltage regulator 5V0
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/IntegratedCircuits/IC AMS1117-XX 0.8A Adjustable-Fixed Low Dropout Linear Regulator.pdf
+$ENDCMP
+#
+$CMP AMS1117-ADJ
+D AMS1117 adjusted voltage regulator
+K AMS1117 adjusted voltage regulator
+F D:/Desktop/Dropbox/=Wynalazki Kuby Miszcza/xxx DATASHEETS xxx/IntegratedCircuits/IC AMS1117-XX 0.8A Adjustable-Fixed Low Dropout Linear Regulator.pdf
+$ENDCMP
+#
+$CMP LM7805
+D LM7805 fixed voltage regulator 5V0
+K LM7805 fixed voltage regulator 5V0
+F D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\xxx DATASHEETS xxx\IntegratedCircuits\IC LM78XX - MC78XX - MC78XXA - 3-Terminal 1A Positive Voltage Regulator.pdf
+$ENDCMP
+#
+#End Doc Library

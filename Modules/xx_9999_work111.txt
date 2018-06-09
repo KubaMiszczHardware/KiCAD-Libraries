@@ -1,0 +1,26 @@
+71_Packages_DIP.pretty
+
+${KUBALIBS}/Modules/71_Packages_DIP.pretty/3dpackages/
+
+
+
+
+
+(\(module\s)(.*)(\s\(layer.*[\s\S\n]*3dpackages.)(.*)(.wrl[\s\S\n]*)
+$1$2$3$2$5
+
+
+
+${KUBALIBS}/Modules/xx_71_Package_TO_SOT_SMD.pretty/3dpackages/
+${KUBALIBS}/Modules/xx_9999_work111/3dpackages/
+${KUBALIBS}/Modules/xx_9999_work222/3dpackages/
+${KUBALIBS}/Modules/xx_9999_work333/3dpackages/
+${KUBALIBS}/Modules/xx_9999_work444/3dpackages/
+xx_9999_work111
+xx_9999_work222
+xx_9999_work333
+xx_9999_work444
+
+
+dip packages jensak master ake zmien kolor
+add displays
