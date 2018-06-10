@@ -103,30 +103,6 @@ X Pin_4 4 -200 -200 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# PinSocket_02x01
-#
-DEF PinSocket_02x01 J 0 40 Y N 1 F N
-F0 "J" 0 200 50 H V C CNN
-F1 "PinSocket_02x01" 0 0 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- Connector*:*_??x*mm*
- Connector*:*2x??x*mm*
- Socket?Strip?Straight?2X01
- Socket?Strip?Angled?2X01
-$ENDFPLIST
-DRAW
-A 10 100 25 901 -901 0 1 0 N 10 125 10 75
-A 90 100 25 -899 899 0 1 0 N 90 75 90 125
-S -50 105 -15 95 1 1 6 N
-S -50 150 150 50 1 1 10 f
-S 150 105 115 95 1 1 6 N
-X Pin_1 1 -200 100 150 R 50 50 1 1 P
-X Pin_2 2 300 100 150 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # PinSocket_02x02
 #
 DEF PinSocket_02x02 J 0 40 Y N 1 F N
@@ -136,9 +112,9 @@ F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  Connector*:*_??x*mm*
- Connector*:*2x??x*mm*
- Socket?Strip?Straight?2X02
- Socket?Strip?Angled?2X02
+ Connector*:*1x??x*mm*
+ Socket?Strip?Straight?1X04
+ Socket?Strip?Angled?1X04
 $ENDFPLIST
 DRAW
 A 10 0 25 901 -901 0 1 0 N 10 25 10 -25
@@ -166,9 +142,9 @@ F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  Connector*:*_??x*mm*
- Connector*:*2x??x*mm*
- Socket?Strip?Straight?1X03
- Socket?Strip?Angled?1X03
+ Connector*:*1x??x*mm*
+ Socket?Strip?Straight?1X04
+ Socket?Strip?Angled?1X04
 $ENDFPLIST
 DRAW
 A 10 -100 25 901 -901 0 1 0 N 10 -75 10 -125
@@ -202,9 +178,9 @@ F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  Connector*:*_??x*mm*
- Connector*:*2x??x*mm*
- Socket?Strip?Straight?2X04
- Socket?Strip?Angled?2X04
+ Connector*:*1x??x*mm*
+ Socket?Strip?Straight?1X04
+ Socket?Strip?Angled?1X04
 $ENDFPLIST
 DRAW
 A 10 -200 25 901 -901 0 1 0 N 10 -175 10 -225

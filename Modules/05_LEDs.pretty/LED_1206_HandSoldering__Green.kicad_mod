@@ -27,7 +27,7 @@
   (pad 2 smd rect (at 2 0) (size 2 1.7) (layers F.Cu F.Paste F.Mask))
   (model ${KUBALIBS}/Modules/05_LEDs.pretty/3dpackages/LED_1206_HandSoldering__Green.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 10 10 10))
     (rotate (xyz 0 0 180))
   )
 )
