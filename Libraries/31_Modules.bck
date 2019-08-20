@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DSUN_DC-DC_AdjStepDown
+K stepdown dc-dc adjustable adjust
+$ENDCMP
+#
+$CMP STM32F103C8T6_BluePill
+D STM32F103C8T6 BluePill
+K stm32 f103 bluepill c8t6
+$ENDCMP
+#
+#End Doc Library

@@ -1,6 +1,6 @@
-(module STM32F103C8T6_Blue_Pill (layer F.Cu) (tedit 5B179ECB)
-  (descr "Ai Thinker Ra-01 LoRa")
-  (tags "LoRa Ra-01")
+(module STM32F103C8T6_Blue_Pill (layer F.Cu) (tedit 5D0FBE0D)
+  (descr STM32F103C8T6_Blue_Pill)
+  (tags STM32*F103*C8T6*Blue*Pill)
   (attr smd)
   (fp_text reference REF** (at 6.35 -7.62) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -176,7 +176,7 @@
   (pad 25 smd oval (at 38.1 -15.875) (size 1.27 2.54) (layers F.Cu F.Paste F.Mask))
   (pad 27 smd oval (at 33.02 -15.875) (size 1.27 2.54) (layers F.Cu F.Paste F.Mask))
   (model ${KUBALIBS}/Modules\31_Modules.pretty\3dpackages\STM32F103C8T6_Blue_Pill.wrl
-    (at (xyz 0 0 0))
+    (offset (xyz 0 0 -6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

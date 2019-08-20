@@ -1,5 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Arduino_Nano_v2.x
+D Arduino Nano v2.x
+K Arduino nano microcontroller module USB
+F https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf
+$ENDCMP
+#
+$CMP Arduino_Nano_v3
+D Arduino Nano v3.x
+K Arduino nano microcontroller module USB
+F http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+$ENDCMP
+#
+$CMP DSUN_DC-DC_AdjStepDown
+K stepdown dc-dc adjustable adjust
+$ENDCMP
+#
 $CMP STM32F103C8T6_BluePill
 D STM32F103C8T6 BluePill
 K stm32 f103 bluepill c8t6

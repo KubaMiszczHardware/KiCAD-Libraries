@@ -1,0 +1,19 @@
+UseIconsInMenus=1
+IconScale=-1
+MousewheelPAN=1
+ZoomNoCenter=0
+AutoPAN=1
+OpenGLAntialiasingMode=2
+CairoAntialiasingMode=0
+AutoSaveInterval=60
+FileHistorySize=9
+CanvasScale=0
+Editor=C:\\Users\\belchj\\OneDrive - TW Metals Ltd\\Program Files\\npp.7.5.8.bin.x64\\notepad++.exe
+PdfBrowserName=C:\\Program Files (x86)\\Foxit Software\\Foxit Reader\\FoxitReader.exe
+UseSystemBrowser=0
+WorkingDir=C:\\Users\\belchj\\OneDrive - TW Metals Ltd\\=TW Repositories\\ServoTron2000PIO\\ServoTron2000PCB
+ShowEnvVarWarningDialog=1
+[EnvironmentVariables]
+KICAD_USER_TEMPLATE_DIR=C:\\Users\\belchj\\kicad\\template
+KIGITHUB=https://github.com/KiCad
+KUBALIBS=C:\\Users\\belchj\\OneDrive - TW Metals Ltd\\=TW Repositories\\KiCAD-LibrariesFinal
