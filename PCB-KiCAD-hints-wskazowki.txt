@@ -1,0 +1,5 @@
+rozlana masa to jest to 'add filled zones' po prawej 7 od gory
+
+otwory w padach THT popraw:
+0.7 potencjometry te 3 nozkowe bialoniebieskie (real 0.75)
+0.6 pinheaders

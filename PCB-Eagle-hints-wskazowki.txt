@@ -63,15 +63,3 @@ GRID:
 LIBRARY:
 	zmiana nazwy elementu: rename oldname newname ('-' zamiast spacji), i trza w kazdej zakldace: w package i device, i symbol
 
-
-obudowa rezystrow SMD: 0805 - takie jeszcze dam rade przylutowac
-ale lepsze 1206, jest 2.3mm odstepy miedz padami i mozna sciezke wcisnac
-
-SCIEZKI WYCHODZA SPOKO:
-	zasilania 230VAC 0.xxxin=2.1844mm
-	zasilania 24VDC  0.032in=0.81mm
-	zwykle 0.35mm (mozna ciensze ale trza uwazac 0.012in=0.3mm  )
-	odstepy 0.6 (jw= 0.024in=0.61mm (takie jak w steroniku IR sa ok, 1mm
-	odstep miedzy padami SMD zeby przeszla jedna sciezka: 0.3+2*0.61=1.52mm
-	zeby tes odstepy byly w polygon dawaj prop->isolate 0.024mm
-	odstepy d pol masy tez 0.6mm
